@@ -4,9 +4,6 @@
 
 News Monkey is a web application that displays current news articles by fetching data from the News API. It provides users with up-to-date news headlines and details on various topics and categories. The application is built using the React framework, offering a dynamic and responsive user experience.
 
-## Screenshots
-![image](https://github.com/user-attachments/assets/86963c60-7348-439f-9f33-d5968e3a40b5)# News Monkey
-
 ## Overview
 
 News Monkey is a web application that displays current news articles by fetching data from the News API. It provides users with up-to-date news headlines and details on various topics and categories. The application is built using the React framework, offering a dynamic and responsive user experience.
