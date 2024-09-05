@@ -46,7 +46,7 @@ To run this project locally, follow this step:
 
 **Clone the Repository**:
    ```bash
-   git clone https://github.com/YashKhatpe/news-monkey.git
+   git clone https://github.com/YashKhatpe/newsMonkey.git
    cd news-monkey
    npm install
    npm start
